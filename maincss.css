@@ -1,3 +1,6 @@
+*{
+   background-color:rgb( white, orange, black );
+}
 .location > h5{
     color: rgb(0, 0, 0);
     font-weight: 800;
